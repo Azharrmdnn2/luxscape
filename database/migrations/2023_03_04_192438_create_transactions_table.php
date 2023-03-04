@@ -23,7 +23,7 @@ class CreateTransactionsTable extends Migration
             $table->string('courier')->nullable();
             $table->string('payment')->default('MIDTRANS');
             $table->string('payment_url')->nullable();
-            $table->bigInteger('total_ptice')->default(0);
+            $table->bigInteger('total_price')->default(0);
             $table->string('status')->default('PENDING');
 
             $table->softDeletes();

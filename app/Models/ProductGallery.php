@@ -7,5 +7,9 @@ use Illuminate\Database\Eloquent\Model;
 
 class ProductGallery extends Model
 {
-    use HasFactory;
+    use HasFactory, SoftDeletes;
+
+    protected $fillable = [
+        'products_id', 'url', 'is_featured'
+    ];
 }
