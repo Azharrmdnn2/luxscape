@@ -65,7 +65,7 @@
             <div class="px-4 flex-none">
               <div class="" style="width: 90px; height: 90px">
                 <img
-                  src="./images/content/chair-1.png"
+                  src="/frontend/images//content/chair-1.png"
                   alt="chair-1"
                   class="object-cover rounded-xl w-full h-full"
                 />
@@ -112,7 +112,7 @@
             <div class="px-4 flex-none">
               <div class="" style="width: 90px; height: 90px">
                 <img
-                  src="./images/content/chair-2.png"
+                  src="/frontend/images//content/chair-2.png"
                   alt="chair-2"
                   class="object-cover rounded-xl w-full h-full"
                 />
@@ -159,7 +159,7 @@
             <div class="px-4 flex-none">
               <div class="" style="width: 90px; height: 90px">
                 <img
-                  src="./images/content/chair-3.png"
+                  src="/frontend/images//content/chair-3.png"
                   alt="chair-3"
                   class="object-cover rounded-xl w-full h-full"
                 />
@@ -266,7 +266,7 @@
                       class="border border-gray-200 focus:border-red-200 flex items-center justify-center rounded-xl bg-white w-full h-full focus:outline-none"
                     >
                       <img
-                        src="./images/content/logo-fedex.svg"
+                        src="/frontend/images//content/logo-fedex.svg"
                         alt="Logo Fedex"
                         class="object-contain max-h-full"
                       />
@@ -280,7 +280,7 @@
                       class="border border-gray-200 focus:border-red-200 flex items-center justify-center rounded-xl bg-white w-full h-full focus:outline-none"
                     >
                       <img
-                        src="./images/content/logo-dhl.svg"
+                        src="/frontend/images//content/logo-dhl.svg"
                         alt="Logo dhl"
                         class="object-contain max-h-full"
                       />
@@ -302,7 +302,7 @@
                       class="border border-gray-200 focus:border-red-200 flex items-center justify-center rounded-xl bg-white w-full h-full focus:outline-none"
                     >
                       <img
-                        src="./images/content/logo-midtrans.png"
+                        src="/frontend/images//content/logo-midtrans.png"
                         alt="Logo midtrans"
                         class="object-contain max-h-full"
                       />
@@ -316,7 +316,7 @@
                       class="border border-gray-200 focus:border-red-200 flex items-center justify-center rounded-xl bg-white w-full h-full focus:outline-none"
                     >
                       <img
-                        src="./images/content/logo-mastercard.svg"
+                        src="/frontend/images//content/logo-mastercard.svg"
                         alt="Logo mastercard"
                       />
                     </button>
@@ -329,7 +329,7 @@
                       class="border border-gray-200 focus:border-red-200 flex items-center justify-center rounded-xl bg-white w-full h-full focus:outline-none"
                     >
                       <img
-                        src="./images/content/logo-bitcoin.svg"
+                        src="/frontend/images//content/logo-bitcoin.svg"
                         alt="Logo bitcoin"
                         class="object-contain max-h-full"
                       />
@@ -343,7 +343,7 @@
                       class="border border-gray-200 focus:border-red-200 flex items-center justify-center rounded-xl bg-white w-full h-full focus:outline-none"
                     >
                       <img
-                        src="./images/content/logo-american-express.svg"
+                        src="/frontend/images//content/logo-american-express.svg"
                         alt="Logo american-logo-american-express"
                       />
                     </button>
